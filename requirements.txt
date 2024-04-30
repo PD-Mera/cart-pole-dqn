@@ -1,0 +1,5 @@
+gymnasium[classic_control]
+torch
+matplotlib
+onnxruntime
+imageio
